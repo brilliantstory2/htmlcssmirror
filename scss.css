@@ -321,16 +321,16 @@ z:nth-of-type(1) room {
         }
     }
 
-    &:nth-of-type(31), //
-    &:nth-of-type(14), //
-    &:nth-of-type(36), //
-    &:nth-of-type(22), //
-    &:nth-of-type(8), //
-    &:nth-of-type(16), //
-    &:nth-of-type(21), //
-    &:nth-of-type(35), //
-    &:nth-of-type(42), //
-    &:nth-of-type(28), //
+    &:nth-of-type(31),
+    &:nth-of-type(14),
+    &:nth-of-type(36),
+    &:nth-of-type(22),
+    &:nth-of-type(8),
+    &:nth-of-type(16),
+    &:nth-of-type(21),
+    &:nth-of-type(35),
+    &:nth-of-type(42),
+    &:nth-of-type(28),
     &:nth-of-type(4) {
         &:before {
             filter: brightness(.75);
